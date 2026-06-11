@@ -28,5 +28,9 @@
   "xo": false,
   "devDependencies": {
     "dependency-check": "^3.1.0"
+  },
+  "homepage": "https://github.com/patternplate/patternplate/tree/master/packages/websocket-client#readme",
+  "bugs": {
+    "url": "https://github.com/patternplate/patternplate/issues"
   }
 }
